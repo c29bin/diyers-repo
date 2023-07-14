@@ -1,8 +1,13 @@
+import React from "react";
+
+
 const Home = () => {
     return (
-        <div>
+        <section className="">
             <h1>Home</h1>
-        </div>
+            <h1>Hi</h1>
+        </section>
+            
     )
 }
 
